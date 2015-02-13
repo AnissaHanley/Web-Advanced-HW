@@ -1,0 +1,130 @@
+body {
+  color: #ff0000;
+  background-color: #000000;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 25pt;
+}
+
+td,tr {
+  padding: 5px;
+}
+
+p {
+  font-size: 12pt;
+  padding: 3px;
+  margin: 0px;
+}
+
+.table {
+  background-color: #00deff;
+  border:solid 10px #FFFFFF;
+}
+
+.header {
+  height: 235px;
+  padding: 10px;
+  width: 950px;
+  background:url(images/header.jpg) no-repeat;
+  }
+
+#headertext {
+  color: #ffffff;
+  background-color: transparent;
+  font-size: 20pt;
+  font-family: "Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  padding-right: 10px;
+  padding-top: 70px;
+  font-style: italic;
+  text-align: right;
+}
+
+/*Lower Banner*/
+
+
+td.topnavi {
+  height: 29px;
+  font-size: 10pt;
+  color: #000000;
+  background-color: #ff0018;
+  font-weight: bold;
+  font-family: Georgia,"Baskerville",verdana,arial,helvetica,sans-serif;
+  text-align: center;
+  background-repeat: repeat-x;
+}
+
+
+
+h1 {
+  color: #ffffff;
+  font-family: "Century Gothic", Georgia, "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;;
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: center;
+  margin: 12px 0px 0px 10px;
+  font-style: italic;
+}
+
+/*Navigation*/
+
+.navi {
+  color: #4C6535;
+  background-color: #00deff;
+  font-family: "Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+  font-style: italic;
+  margin: 5px;
+  padding: 20px 0px 8px 10px;
+  text-align: left;
+  line-height: 25px;
+
+}
+
+.menue {
+  list-style-type:none;
+  padding: 0px;
+  margin: 0px 0px 0px 5px;
+  text-align: left;
+}
+
+.menue li a, .menue li a:active, .menue li a:visited {
+  color: #ff0018;
+  background-color: #FFFFFF;
+  width: 190px;
+  padding: 3px;
+  margin: 2px;
+  font-size: 15pt;
+  font-family: Georgia,"Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  display: block;
+  font-weight: bold;
+  text-indent: 50px;
+  border:solid 4px #4C6535;
+}
+
+.menue li a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ff0018;
+}
+
+/*Body*/
+
+#maintext {
+  width: 720px;
+  font-size: 10pt;
+  text-align: justify;
+  font-family: Tahoma,"Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  color: #000000;
+  padding-top: 0px;
+}
+
+/*Links*/
+
+a:link, a:visited, a:active {
+  color:#FF8000;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+
