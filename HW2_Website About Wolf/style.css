@@ -1,0 +1,110 @@
+body {
+  
+  background-color: #5f6f7e;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 25pt;
+}
+
+td,tr {
+  padding: 5px;
+}
+
+div {
+text-align: justify;
+}
+
+
+.table {
+  background-color: #ffffff;
+  border:solid 5px #000000;
+}
+
+.header {
+  height: 235px;
+  padding: 50px;
+  width: 950px;
+  background:url(images/header.jpg) no-repeat;
+  border:solid 3px #ff0000;
+  }
+
+
+
+/*Lower Banner*/
+
+
+td.topnavi {
+  height: 29px;
+  font-size: 10pt;
+  color: #000000;
+  background-color: #ff0018;
+  font-weight: bold;
+  font-family: Georgia,"Baskerville",verdana,arial,helvetica,sans-serif;
+  text-align: center;
+  background-repeat: repeat-x;
+}
+
+
+h1 {
+  color: #000000;
+  font-family: "Century Gothic", Georgia, "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;;
+  font-size: 18pt;
+  font-weight: bold;
+  text-align: center;
+  margin: 12px 0px 0px 10px;
+  font-style: italic;
+}
+
+/*Navigation*/
+
+.menue {
+  list-style-type:none;
+  padding: 0px;
+  margin: 150px 0px 50px 5px;
+  text-align: left;
+  background-color: #515763;
+  height: 300px;
+  width: 208px;
+}
+
+.menue li a, .menue li a:active, .menue li a:visited {
+  color: #fff;
+  background-color: #8f8062;
+  width: 190px;
+  padding: 3px;
+  margin: 2px;
+  font-size: 15pt;
+  font-family: Georgia,"Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  display: block;
+  font-weight: bold;
+  text-indent: 3px;
+  border:solid 4px #000000;
+
+}
+
+.menue li a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #8f8062;
+  background-color: #ffffff;
+}
+
+/*Body*/
+
+#maintext {
+  width: 720px;
+  font-size: 10pt;
+  text-align: justify;
+  font-family: Tahoma,"Trebuchet MS",verdana,arial,helvetica,sans-serif;
+  color: #000000;
+  padding-top: 0px;
+}
+
+/*Links*/
+
+a:link, a:visited, a:active {
+  color:#FF8000;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+
