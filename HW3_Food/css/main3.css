@@ -1,0 +1,85 @@
+* { margin: 0; padding: 0; }
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+h1 {
+	font-family: 'Droid Serif', serif;
+}
+
+h3 {
+	font-family: 'Tangerine', cursive;
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+}
+
+.slide {
+	width: 100%;
+	height: 100%;
+}
+
+.slide-1 {
+	background: url("http://www.dailyvedas.com/wp-content/uploads/2014/04/fap-09.jpg") no-repeat;
+	background-size: cover;
+}
+
+.slide-1 h1 {
+	color: red;
+	position: absolute;
+	right: 150px;
+	top: 100px;
+	font-size: 3.5rem;
+}
+
+.slide-1 h3 {
+	font-size: 2.0rem;
+	position: absolute;
+	top: 165px;
+	right: 150px;
+}
+
+.slide-2 {
+	background: url("http://startupdope.com/wp-content/uploads/2014/12/delicious-food.jpg") no-repeat;
+	background-size: cover;
+}
+
+.slide-2 h1 {
+	position: relative;
+	top: 500px;
+	left: 50px;
+	font-size: 2.6rem;
+	color: red;
+	border-style: solid;
+	border-color: white;
+}
+
+.slide-3 {
+	background: url("http://blog.hdwallsource.com/wp-content/uploads/2015/01/food-wallpaper-5775-5940-hd-wallpapers.jpg") no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.slide-3 h1 {
+	font-size: 1.8rem;
+	width: 250px;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+	color: #fff;
+	border-style: solid;
+	border-color: white;
+}
+
+
+
+
+
+
+
+
+
