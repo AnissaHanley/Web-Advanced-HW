@@ -1,0 +1,25 @@
+body {
+  color: #ff0000;
+  background-color: #000000;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+}
+
+
+p {
+  font-size: 12pt;
+  padding: 3px;
+  margin: 0px;
+}
+
+
+
+h1 {
+  color: #ffffff;
+  font-family: "Century Gothic", Georgia, "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;;
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+  margin: 12px 0px 0px 10px;
+  font-style: italic;
+}
