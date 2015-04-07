@@ -1,0 +1,36 @@
+body {
+  color: #ffffff;
+  background-color: #00d8ff;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+}
+
+
+/* Container Border */
+#container {
+border: 12px solid #ffffff;
+border-radius: 55px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+#container2 {
+border: 9px solid #000;
+border-radius: 1px;
+margin-top: 70px;
+margin-bottom: 30px;
+text-align: center;
+}
+
+
+
+
+
+h1 {
+  color: #fffc00;
+  font-family: "Century Gothic", Georgia, "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;;
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+}
