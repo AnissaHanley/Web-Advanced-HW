@@ -1,0 +1,70 @@
+*{
+	margin:0; 
+	padding:0;
+	font-family: Arial;
+	background: #00ccff;
+}
+
+.header {
+	text-align: center;
+	padding:10px;
+	color: #000000;
+	border-radius: 5px;
+	background: #000000;
+}
+
+
+.name {
+	font-size:40pt;
+    border-radius: 5px;
+    background: #500000;
+    padding: 1px; 
+    color: #fff;
+    
+
+}
+
+.country {
+	color:#ffffff;
+	font-size: 35pt;
+	padding:10px;
+	border-radius: 5px;
+	background: #000050;
+	
+}
+
+.website{
+	color:#ffffff;
+	font-size: 30pt;
+	padding:10px;
+	border-radius: 5px;
+	background: #00007a;
+	
+}
+
+.genre {
+	color:#ffffff;
+	font-size:25pt;
+	padding:10px;
+	border-radius: 5px;
+	background: #00009e;
+	
+}
+
+.factone {
+	color:#ffffff;
+	font-size:20pt;
+	padding:10px;
+	border-radius: 5px;
+	background: #0000c2;
+	
+}
+
+.facttwo{
+	color:#ffffff;
+	font-size:20pt;
+	padding:10px;
+	border-radius: 5px;
+	background:#0000e9;
+	
+}
